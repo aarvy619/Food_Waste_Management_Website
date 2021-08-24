@@ -1,1 +1,1 @@
-# Sustainable_Food_Waste_Management_Website
+# Food_Waste_Management_Website
